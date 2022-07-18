@@ -109,6 +109,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: history
+      name: "Història"
+      url: /history/
+      weight: 10
     - identifier: about
       name: "Qui som"
       url: /about/
