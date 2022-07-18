@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Distorsió
     subtitle: "La revista dels estudiants de l'ETSETB."
-    imageUrl: "https://raw.githubusercontent.com/albert752/Distorsio/main/src/blog/static/blog/img/favicon.pngw"
+    imageUrl: "https://raw.githubusercontent.com/albert752/Distorsio/main/src/blog/static/blog/img/favicon.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -70,11 +70,6 @@ params:
         url: posts
       - name: Tags
         url: tags
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
 
   socialIcons:
     - name: twitter
@@ -114,18 +109,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: about
+      name: "Qui som"
+      url: /about/
+      weight: 10
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
-    - identifier: tags
+    - identifier: Tags
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
