@@ -1,5 +1,5 @@
 ---
-title: "Històri de la revista"
+title: "Història de la revista"
 summary: History
 url: "/history/"
 hidemeta : true
