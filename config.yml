@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://distorsio.github.io/website"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
@@ -16,9 +16,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  title: Distorsió
+  description: "La revista dels estudiants de l'ETSETB."
+  keywords: [Blog]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -58,10 +58,10 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    enabled: true # needs to be explicitly set
+    title: Distorsió
+    subtitle: "La revista dels estudiants de l'ETSETB."
+    imageUrl: "https://raw.githubusercontent.com/albert752/Distorsio/main/src/blog/static/blog/img/favicon.pngw"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
