@@ -64,7 +64,7 @@ params:
     imageUrl: "https://raw.githubusercontent.com/albert752/Distorsio/main/src/blog/static/blog/img/favicon.png"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: "Ups! No ha carregat la image 😔"
     buttons:
       - name: Posts
         url: posts
@@ -73,11 +73,11 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+      url: "https://twitter.com/distorsioupc"
+    - name: instagram
+      url: "https://instagram.com/distorsioupc"
+    - name: facebook
+      url: "https://facebook.com/distorsioup"
 
   analytics:
     google:
