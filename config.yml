@@ -130,8 +130,8 @@ menu:
       url: /categories/
       weight: 10
     - identifier: Tags
-      name: tags
-      url: /tags/
+      name: Temes
+      url: /themes/
       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
