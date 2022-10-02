@@ -13,6 +13,7 @@ Si vols contactar-nos, ho pots fer mitjançant les nostres xarxes socials, nombr
 ### Xarxes socials:
 
 * Twitter: 
+* Email:
 * Instagram:
 * Discord: 
 
