@@ -12,4 +12,12 @@ Si vols contactar-nos, ho pots fer mitjançant les nostres xarxes socials, nombr
 
 ### Xarxes socials:
 
-* Twitter
+* Twitter: 
+* Instagram:
+* Discord: 
+
+### Nombre telefònic:
+* (...)
+
+### Despatx:
+* Edifici Omega 103
