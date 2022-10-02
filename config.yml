@@ -121,6 +121,10 @@ menu:
       name: "Qui som"
       url: /about/
       weight: 10
+    - identifier: contact
+      name: "Contacte"
+      url: /contact/
+      weight: 10
     - identifier: categories
       name: Categories
       url: /categories/
