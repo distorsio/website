@@ -128,18 +128,10 @@ menu:
       name: "Contacte"
       url: /contact/
       weight: 10
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
-    - identifier: Tags
-      name: tags
-      url: /tags/
-      weight: 20
     - identifier: Temes
       name: temes
       url: /temes/
-      weight: 10
+      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
