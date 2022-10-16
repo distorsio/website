@@ -17,7 +17,13 @@
     <loc>https://distorsio.github.io/website/posts/second_post/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
+    <loc>https://distorsio.github.io/website/temes/prueba/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://distorsio.github.io/website/tags/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://distorsio.github.io/website/temes/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://distorsio.github.io/website/tags/test/</loc>
@@ -30,7 +36,5 @@
     <loc>https://distorsio.github.io/website/history/</loc>
   </url><url>
     <loc>https://distorsio.github.io/website/about/</loc>
-  </url><url>
-    <loc>https://distorsio.github.io/website/temes/</loc>
   </url>
 </urlset>
